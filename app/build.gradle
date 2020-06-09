@@ -33,9 +33,15 @@ dependencies {
     implementation 'com.google.firebase:firebase-core:17.4.0'
     implementation 'com.google.firebase:firebase-database:19.3.0'
     implementation 'androidx.multidex:multidex:2.0.1'
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
 }
 dependencies {
     implementation 'com.google.firebase:firebase-config:19.1.4'
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:+'
+    implementation 'androidx.constraintlayout:constraintlayout:+'
 }
 
 dependencies {
